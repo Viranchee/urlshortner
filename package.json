@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.20.5",
-    "@cloudflare/workers-types": "4.20221111.1",
+    "@cloudflare/workers-types": "^3.0.0",
     "@esbuild-plugins/node-globals-polyfill": "^0.1.1",
     "@remix-run/dev": "^1.9",
     "@remix-run/eslint-config": "^1.9",
