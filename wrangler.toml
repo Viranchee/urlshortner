@@ -1,0 +1,7 @@
+name = "urlshortner"
+main = "src/index.ts"
+compatibility_date = "2022-12-17"
+[[ d1_databases ]]
+binding = "DATABASE"
+database_name = "shortenedurls"
+database_id = "7bf2edfd-4941-4dfb-86f5-5e57f5450f3b"
